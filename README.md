@@ -1,5 +1,5 @@
 # ABB
-Implementación de Árboles Binarios de Búsqueda en lenguaje de programación C++, este proyecto se desarrollo en la materia estructura de datos.
+Implementación de Árboles Binarios de Búsqueda en lenguaje de programación C++, este proyecto se desarrolló en la materia estructura de datos.
 
 ### Funcionalidad:
 - Constructor
