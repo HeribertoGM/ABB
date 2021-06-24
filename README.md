@@ -6,7 +6,7 @@ Implementación de Árboles Binarios de Búsqueda en lenguaje de programación C
 - Constructor parametrizado
 - Agrega nodo con elemento n
 - Elimina nodo con elemento n
-- Busca si arbol contiene elemento n
+- Busca si árbol contiene elemento n
 - Obtiene el nivel en el que se encuentra un elemento n
 - Imprime:
 	- Pre-order
@@ -15,8 +15,8 @@ Implementación de Árboles Binarios de Búsqueda en lenguaje de programación C
 	- Nodos hoja
 	- Nivel x Nivel
 - Compara arboles
-- Cuenta cantidad de elementos en arbol
-- Obtiene la altura y anchura de un arbol
+- Cuenta cantidad de elementos en árbol
+- Obtiene la altura y anchura de un árbol
 - Obtiene los ancestros de un elemento n
-- Obtiene el ancestro en comun mas cercano de dos elementos n y m
-- Invierte un arbol
+- Obtiene el ancestro en común más cercano de dos elementos n y m
+- Invierte un árbol
